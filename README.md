@@ -2,6 +2,9 @@
 
 A chat UI implementation in Android/Kotlin as part of internship assignment
 
+## Download
+You can download the debug APK by clicking [here](https://github.com/roshanrahman/chat-ui-demo/raw/master/github_assets/app-debug.apk)
+
 ## Features
 
 - Adds a new message whenever you tap the screen
